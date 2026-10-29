@@ -194,6 +194,7 @@
 -   [rebalance](https://github.com/cjroth/rebalance) - Interactive portfolio rebalancing TUI that imports brokerage CSV data, sets target allocations, and generates trade instructions
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
+-   [DisconfirmAI](https://disconfirmai.com/en) - Investment research platform that looks for disconfirming evidence before you trust a thesis. Reading, Research, Radar, and investment framework tools; freemium.
 -   [CalcFi](https://calcfi.app/) - 312+ free financial calculators (compound interest, FIRE number, retirement, investment returns, tax brackets). No signup, no ads.
 -   [FinancialData.Net](https://financialdata.net/) - Financial datasets (stock market data, financial statements, sustainability data, and more).
 
