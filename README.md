@@ -196,6 +196,7 @@
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
 -   [CalcFi](https://calcfi.app/) - 312+ free financial calculators (compound interest, FIRE number, retirement, investment returns, tax brackets). No signup, no ads.
 -   [FinancialData.Net](https://financialdata.net/) - Financial datasets (stock market data, financial statements, sustainability data, and more).
+-   [DisconfirmAI](https://disconfirmai.com/en) - AI investment research workspace that looks for counter-evidence first. Answers on filings and 13F holdings are split into verified, inferred and doubtful, with no buy or sell calls. 23 free tools such as Value Trap Review and Damodaran DCF work without an account
 
 ---
 
