@@ -196,6 +196,7 @@
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
 -   [CalcFi](https://calcfi.app/) - 312+ free financial calculators (compound interest, FIRE number, retirement, investment returns, tax brackets). No signup, no ads.
 -   [FinancialData.Net](https://financialdata.net/) - Financial datasets (stock market data, financial statements, sustainability data, and more).
+-   [DisconfirmAI](https://disconfirmai.com/en) - AI investment research and reading tool built around looking for evidence against your thesis. Daily reading from public sources, earnings and data research, a radar that watches for changes you define, and a personal investment framework.
 
 ---
 
